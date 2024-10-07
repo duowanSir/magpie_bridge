@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+web/node_modules
+web/magpie_bridge_j2n/node_modules
+web/dist
+web/magpie_bridge_j2n/dist
+web/.vscode

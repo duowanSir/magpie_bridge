@@ -1,0 +1,18 @@
+// tsconfig.json
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "target": "ES5",
+      "module": "ESNext",
+      "jsx": "react",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "outDir": "./dist",
+      "paths": {
+        "magpie_bridge_j2n": ["node_modules/magpie_bridge_j2n"]
+      },
+    },
+    "include": ["src/**/*"]
+  }

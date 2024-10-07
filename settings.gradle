@@ -20,4 +20,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "magpie_bridge"
 include ':app'
-include ':magpie_bridge_js'
+include ':magpie_bridge_android'
